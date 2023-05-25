@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May 20 23:30:50 2023
-@author: Sude
 
-by  SUDE GÜNGÖR-2021510032
-and VİLDAN ÇOLAK-2020510081
 """
 import re
 import csv
